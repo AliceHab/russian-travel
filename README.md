@@ -1,5 +1,5 @@
 <h1 align="center">Путешествие в Россию</h1>
-<p align="center">Отзывчивая верстка — второй проект по HTML и CSS</p>
+<p align="center">Второй проект по HTML и CSS с отзывчивой версткой </p>
 
 ![Путешествие в Россию](https://disk.yandex.ru/i/MVSB67pIl_Gu-w)
 
