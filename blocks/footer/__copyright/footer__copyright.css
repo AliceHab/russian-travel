@@ -1,0 +1,20 @@
+.footer__copyright {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  margin: 0;
+  text-decoration: none;
+  transition: opacity 0.5s;
+}
+
+.footer__copyright:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 700px) {
+  .footer__copyright {
+    flex-direction: column;
+    margin-top: 48px;
+  }
+}
