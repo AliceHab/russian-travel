@@ -1,13 +1,16 @@
 .footer {
-  margin: 92px auto 24px;
+  margin: 95px auto 24px;
   max-width: calc(100% - (48px * 2));
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 @media (max-width: 768px) {
   .footer {
+    margin-top: 90px;
     max-width: 720px;
+    align-items: start;
   }
 }
 

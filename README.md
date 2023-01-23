@@ -1,4 +1,4 @@
-<h1 align="center">Путешествие в Россию</h1>
+<h1 align="center">[Путешествие в Россию](https://alicehab.github.io/russian-travel/ "Перейти на сайт")</h1>
 <p align="center">Второй проект по HTML и CSS с отзывчивой версткой </p>
 
 ![Путешествие в Россию](https://postimg.cc/Wdwx4Fc0)

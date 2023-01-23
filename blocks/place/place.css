@@ -9,7 +9,7 @@
 }
 
 .place:first-of-type {
-  margin-top: 89px;
+  margin-top: none;
 }
 
 @media (max-width: 1024px) {
@@ -35,9 +35,6 @@
 }
 
 @media (max-width: 565px) {
-  .place:first-of-type {
-    margin-top: 64px;
-  }
   .place {
     grid-template-columns: minmax(320px, 1fr);
     max-width: 320px;
