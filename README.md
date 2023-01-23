@@ -1,7 +1,7 @@
-<h1 align="center">[Путешествие в Россию](https://alicehab.github.io/russian-travel/ "Перейти на сайт")</h1>
+# [Путешествие в Россию](https://alicehab.github.io/russian-travel/ "Перейти на сайт")
 <p align="center">Второй проект по HTML и CSS с отзывчивой версткой </p>
 
-![Путешествие в Россию](https://postimg.cc/Wdwx4Fc0)
+[![Путешествие в Россию](https://i.postimg.cc/6pkKYnHb/image.jpg)](https://postimg.cc/Wdwx4Fc0)
 
 ## Описание
 
