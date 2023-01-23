@@ -1,5 +1,5 @@
 # [Путешествие в Россию](https://alicehab.github.io/russian-travel/ "Перейти на сайт")
-<p align="center">Второй проект по HTML и CSS с отзывчивой версткой </p>
+Второй проект по HTML и CSS с отзывчивой версткой
 
 [![Путешествие в Россию](https://i.postimg.cc/6pkKYnHb/image.jpg)](https://postimg.cc/Wdwx4Fc0)
 
